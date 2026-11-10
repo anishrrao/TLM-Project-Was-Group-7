@@ -1,0 +1,8 @@
+{
+  "name": "LODGEMATE AI",
+  "description": "Intelligent lodge management dashboard for Temple Trails Family Lodge, featuring demand forecasting, dynamic pricing, workforce planning, inventory, local partner coordination, and AI approval workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
